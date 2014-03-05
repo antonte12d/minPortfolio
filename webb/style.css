@@ -1,0 +1,16 @@
+.startpage {
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-color: #040101;
+}
+
+.hwrap {
+	text-align: center;
+	font-family: arial, serif;
+	font-size: 250%;
+	color: #fff;
+	border: 1px solid #01000d;
+	background-color: #01000d;
+}
+
