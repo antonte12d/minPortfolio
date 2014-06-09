@@ -13,11 +13,6 @@ header
 body 
 {
 	background-image: url(background.jpg);
-/*	 -webkit-background-size: cover;
-		-moz-background-size: cover;
-		 -ms-background-size: cover;
-		  -o-background-size: cover;
-			 background-size: cover;*/
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-attachment: fixed;
@@ -63,7 +58,6 @@ body
 .navLink, .navLink:visited 
 {
 	text-decoration: none;
-	background-color: none;
 	color: #fff;
 	display: block;
 	width: 100%;
